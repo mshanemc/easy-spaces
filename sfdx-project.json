@@ -42,7 +42,7 @@
             "package": "es-space-mgmt",
             "versionName": "Space Mgmt - Summer '18",
             "versionNumber": "1.0.0.NEXT",
-            "default": true,
+            "default": false,
             "dependencies": [
                 {
                     "package": "es-base-objects",
@@ -57,6 +57,10 @@
                     "versionNumber": "1.0.0.LATEST"
                 }
             ]
+        },
+        {
+          "path": "./es-theme",
+          "default": true
         }
     ],
     "namespace": "",
