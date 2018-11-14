@@ -9,7 +9,7 @@
         "s1EncryptedStoragePref2": false
       },
       "liveAgentSettings" : {
-        "isLiveAgentEnabled": true
+        "enableLiveAgent": true
       }
     }
 }
