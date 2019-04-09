@@ -22,7 +22,7 @@
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>GROUPS_BANNER_IMAGE</propertyName>
-        <propertyValue/>
+        <propertyValue>/file-asset/background_chatter_purple?v=1</propertyValue>
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>GROUP_IMAGE</propertyName>
@@ -30,7 +30,7 @@
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>PROFILE_BANNER_IMAGE</propertyName>
-        <propertyValue/>
+        <propertyValue>/file-asset/background_chatter_green?v=1</propertyValue>
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>USER_IMAGE</propertyName>
@@ -44,5 +44,5 @@
         <propertyName>OVERRIDE_LOADING_PAGE</propertyName>
         <propertyValue>false</propertyValue>
     </brandingSetProperty>
-    <masterLabel>Easy Spaces</masterLabel>
+    <masterLabel>Easy_Spaces</masterLabel>
 </BrandingSet>

@@ -42,7 +42,7 @@
             "package": "es-space-mgmt",
             "versionName": "Space Mgmt - Summer '18",
             "versionNumber": "1.0.0.NEXT",
-            "default": true,
+            "default": false,
             "dependencies": [
                 {
                     "package": "es-base-objects",
@@ -57,11 +57,15 @@
                     "versionNumber": "1.0.0.LATEST"
                 }
             ]
+        },
+        {
+          "path": "./es-theme",
+          "default": true
         }
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "43.0",
+    "sourceApiVersion": "44.0",
     "packageAliases": {
         "es-base-objects": "0Ho1I000000XZDaSAO",
         "es-base-code": "0Ho1I000000XZDfSAO",
